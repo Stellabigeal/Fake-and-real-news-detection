@@ -1,6 +1,6 @@
 # 📰 Fake and Real News Detection using NLP
 
-## 📌 Problem Statement
+##  Problem Statement
 
 The rapid spread of fake news across digital platforms poses serious risks to society, including misinformation, public panic, and erosion of trust in credible journalism. With the increasing volume of online content, it is no longer feasible to manually verify every news article. There is a strong need for an automated, data-driven solution that can accurately distinguish fake news from real news based on linguistic and textual patterns.
 
@@ -8,7 +8,7 @@ This project addresses this challenge by leveraging **Natural Language Processin
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objectives of this project are to:
 
@@ -19,7 +19,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🗂️ Dataset Overview
+##  Dataset Overview
 
 * **Classes:** Fake News vs Real News
 * **Class Distribution:**
@@ -31,7 +31,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA) Insights
+##  Exploratory Data Analysis (EDA) Insights
 
 Key observations from the dataset include:
 
@@ -41,7 +41,7 @@ Key observations from the dataset include:
 
 ---
 
-## 🛠️ Text Preprocessing
+##  Text Preprocessing
 
 To prepare the text data for modeling, the following preprocessing steps were applied:
 
@@ -54,7 +54,7 @@ To prepare the text data for modeling, the following preprocessing steps were ap
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 Model performance benefited from a combination of traditional and custom-engineered features:
 
@@ -79,7 +79,7 @@ Model performance benefited from a combination of traditional and custom-enginee
 
 ---
 
-## 🤖 Models Trained and Evaluated
+##  Models Trained and Evaluated
 
 | Model                | Accuracy | Precision | Recall | F1-Score |
 | -------------------- | -------- | --------- | ------ | -------- |
@@ -90,7 +90,7 @@ Model performance benefited from a combination of traditional and custom-enginee
 
 ---
 
-## 🏆 Model Performance Insights
+##  Model Performance Insights
 
 * **Support Vector Machine (SVM)** achieved the highest overall performance across all metrics.
 * The strong performance of SVM suggests that a linear classifier can effectively separate fake and real news when rich engineered features are used.
@@ -98,7 +98,7 @@ Model performance benefited from a combination of traditional and custom-enginee
 
 ---
 
-## ✅ Solution Summary
+##  Solution Summary
 
 This project demonstrates that fake news detection can be effectively addressed using:
 
@@ -124,7 +124,7 @@ The results show that machine learning models—particularly SVM—can successfu
 
 ---
 
-## 📌 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas, NumPy
