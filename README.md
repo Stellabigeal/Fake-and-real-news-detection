@@ -111,11 +111,11 @@ The final solution achieved **over 93% accuracy**, proving the effectiveness of 
 
 ---
 
-## 🚀 Conclusion and Future Work
+##  Conclusion and Future Work
 
 The results show that machine learning models—particularly SVM—can successfully identify fake news when supported by strong NLP feature engineering. Understanding linguistic patterns such as adjective usage and sentiment plays a key role in effective detection.
 
-### 🔮 Future Improvements
+###  Future Improvements
 
 * Analyze misclassified articles for deeper insights
 * Experiment with word embeddings (Word2Vec, GloVe)
